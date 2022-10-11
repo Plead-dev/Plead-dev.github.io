@@ -1,1 +1,1 @@
-# Plead-dev.github.io
+# Plead 코드 스탠다드
